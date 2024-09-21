@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii 👋, I am Ashish Bhardwaj , a prefinal year student at<br>Indian Institute of Information Technology , Lucknow.<br>I am currently Working on E-Commerce Website <br><br><br>Reach me at : bhardwajashish601@gmail.com<br> Know about my experiences https://drive.google.com/file/d/1HBIbeTDQ-qVt3YgXY2M3cXeIvKHgIY4J/view?usp=drive_link
+Hii 👋, I am Ashish Bhardwaj , a Final year student at<br>Indian Institute of Information Technology , Lucknow.<br>I am currently Working on E-Commerce Website <br><br><br>Reach me at : bhardwajashish601@gmail.com<br> Know about my experiences https://drive.google.com/file/d/14aJjLPWG3jQaCDQ1zBuFpGp_mmwZIS5T/view?usp=drive_link
 
 
 ## 🌐 Socials:
