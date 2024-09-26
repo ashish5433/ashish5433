@@ -3,7 +3,7 @@ Hi 👋, I am **Ashish Bhardwaj**, a Final-year student at Indian Institute of I
 I am currently working on an **E-Commerce Website**. <br>
 <br>
 Reach me at: bhardwajashish601@gmail.com<br>
-[Know about my experiences](https://drive.google.com/file/d/14aJjLPWG3jQaCDQ1zBuFpGp_mmwZIS5T/view?usp=drive_link)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-bhardwaj-98b961231)
