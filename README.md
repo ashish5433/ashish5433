@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi 👋, I am **Ashish Bhardwaj**, a Final-year student at Indian Institute of Information Technology, Lucknow.<br>
-I am currently working on an **Order management Platform**. <br>
+Hi 👋, I am **Ashish Bhardwaj**, a recent graduate from Indian Institute of Information Technology, Lucknow.<br>
+currently working as a SDE Intern at Electrochem.
 <br>
 Reach me at: bhardwajashish1401@gmail.com<br>
 
