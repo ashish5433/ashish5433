@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi 👋, I am **Ashish Bhardwaj**, a recent graduate from Indian Institute of Information Technology, Lucknow.<br>
-currently working as a SDE Intern at Electrochem.
+currently working as a SDE (Full Stack) at Electrochem.
 <br>
 Reach me at: bhardwajashish1401@gmail.com<br>
 
